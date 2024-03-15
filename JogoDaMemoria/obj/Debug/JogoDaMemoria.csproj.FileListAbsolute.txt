@@ -1,0 +1,11 @@
+C:\Users\User\Documents\JogoDaMemoria\JogoDaMemoria\bin\Debug\JogoDaMemoria.exe.config
+C:\Users\User\Documents\JogoDaMemoria\JogoDaMemoria\bin\Debug\JogoDaMemoria.exe
+C:\Users\User\Documents\JogoDaMemoria\JogoDaMemoria\bin\Debug\JogoDaMemoria.pdb
+C:\Users\User\Documents\JogoDaMemoria\JogoDaMemoria\obj\Debug\JogoDaMemoria.csproj.AssemblyReference.cache
+C:\Users\User\Documents\JogoDaMemoria\JogoDaMemoria\obj\Debug\JogoDaMemoria.Properties.Resources.resources
+C:\Users\User\Documents\JogoDaMemoria\JogoDaMemoria\obj\Debug\JogoDaMemoria.csproj.GenerateResource.cache
+C:\Users\User\Documents\JogoDaMemoria\JogoDaMemoria\obj\Debug\JogoDaMemoria.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\JogoDaMemoria\JogoDaMemoria\obj\Debug\JogoDaMemoria.exe
+C:\Users\User\Documents\JogoDaMemoria\JogoDaMemoria\obj\Debug\JogoDaMemoria.pdb
+C:\Users\User\Documents\JogoDaMemoria\JogoDaMemoria\obj\Debug\JogoDaMemoria.FormSelecao.resources
+C:\Users\User\Documents\JogoDaMemoria\JogoDaMemoria\obj\Debug\JogoDaMemoria.FormPrincipal.resources
